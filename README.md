@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error: a TypeError thrown when attempting to access a property of undefined. The `bug.js` file contains the erroneous code.  The `bugSolution.js` file provides a corrected version with robust error handling.
